@@ -1,6 +1,6 @@
 ### Hi, there! My name is Matheus, welcome to my GitHub!!
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusreis-dev-java/?locale=en_US)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus--reis/?locale=en_US)
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-mr94&show_icons=true&theme=tokyonight)
 
