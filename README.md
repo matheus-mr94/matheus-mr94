@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus--reis/?locale=en_US)
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-mr94&show_icons=true&theme=tokyonight)
+
 
 ### Technologies used: 
 <div style="display:inline_block;">
@@ -15,4 +15,4 @@
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-mr94&layout=compact&theme=tokyonight)](https://github.com/matheus-mr94/github-readme-stats)
+
